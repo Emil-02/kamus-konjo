@@ -36,3 +36,19 @@ Alur editor dimulai dari `draf`. Setelah penutur memeriksa ejaan, arti, ragam, c
 2. **Buat prototipe di HP.** Pembaca dapat menemukan kelima kata melalui kata Konjo maupun arti Indonesia, membuka tautan detail secara langsung, dan mengulang rekaman. Uji juga kapitalisasi, hasil kosong, dan audio gagal dimuat.
 3. **Uji dengan penutur dan pembelajar.** Minta penutur mencocokkan setiap rekaman dengan teksnya. Minta pembelajar mencari satu arti dan mendengar pengucapannya tanpa arahan. Catat bagian yang menyulitkan dan perbaiki sebelum menambah data.
 4. **Siapkan koleksi 50 kata.** Tambahkan kelompok kosakata yang dipilih penutur. Rilis awal siap ketika 50 entri lolos pemeriksaan isi, semua contoh punya terjemahan, rekaman dapat diputar di HP, dan seluruh tautan detail bisa dibuka langsung.
+
+## Lembar kurasi lima kata pertama
+
+Semua pasangan di kolom draf berasal dari data awal. Mulai sesi dengan menanyakan bentuk yang biasa diucapkan penutur untuk arti Indonesia tersebut. Sesudah itu, bandingkan jawabannya dengan draf dan catat desa atau kecamatan pemakaian.
+
+| ID | Draf | Hal yang perlu dipastikan |
+| --- | --- | --- |
+| k0003 | BOLA · rumah | Percakapan 78 memakai *balla’* untuk rumah. Bentuk apa yang digunakan penutur setempat? Apakah kedua bentuk dikenali? |
+| k0004 | PANRA · rusak | Percakapan 69 memuat *panra’i* saat membicarakan lampu rusak. Tanyakan bentuk saat diucapkan sendiri dan cara menulis bunyi akhirnya. |
+| k0006 | ANTAMA · masuk | Percakapan 57 memakai *Antama’ki* saat mempersilakan orang masuk. Minta bentuk dasar dan satu contoh ajakan yang biasa dipakai. |
+| k0001 | BAKKA · besar | Minta contoh untuk benda besar dan untuk orang yang sudah besar. Catat makna yang benar-benar digunakan penutur. |
+| k0007 | BARRASA · menyapu | Tanyakan kata untuk kegiatan menyapu lantai, lalu minta penutur mengucapkannya dalam kalimat sehari-hari. |
+
+Bentuk pembanding berasal dari [Pa’bicaraang, percakapan 57, 69, dan 78](https://www.mediakonjo.net/sites/www.mediakonjo.net/files/KJConv02_0.pdf). Ragam setiap entri tetap menunggu keterangan penutur.
+
+Saat merekam, catat per ID bentuk yang disetujui, arti, wilayah, contoh beserta terjemahan, nama kredit pilihan penutur, dan cakupan izin publikasi. Jelaskan bahwa audio yang masuk repo publik dapat diakses dan diunduh. Simpan bukti persetujuan dan kontak secara privat. Terbitkan entri setelah penutur memeriksa contoh dan rekaman akhir.
