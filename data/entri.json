@@ -1,0 +1,102 @@
+[
+  {
+    "id": "k0001",
+    "kata": "BAKKA",
+    "arti": "Besar",
+    "ragam": null,
+    "contoh": null,
+    "audio": null,
+    "sumber": "Rekayasa_Komputasional/kamus_konjo.py",
+    "status": "draf"
+  },
+  {
+    "id": "k0002",
+    "kata": "KASSA",
+    "arti": "Kuat",
+    "ragam": null,
+    "contoh": null,
+    "audio": null,
+    "sumber": "Rekayasa_Komputasional/kamus_konjo.py",
+    "status": "draf"
+  },
+  {
+    "id": "k0003",
+    "kata": "BOLA",
+    "arti": "Rumah",
+    "ragam": null,
+    "contoh": null,
+    "audio": null,
+    "sumber": "Rekayasa_Komputasional/kamus_konjo.py",
+    "status": "draf"
+  },
+  {
+    "id": "k0004",
+    "kata": "PANRA",
+    "arti": "Rusak",
+    "ragam": null,
+    "contoh": null,
+    "audio": null,
+    "sumber": "Rekayasa_Komputasional/kamus_konjo.py",
+    "status": "draf"
+  },
+  {
+    "id": "k0005",
+    "kata": "TANRA",
+    "arti": "Tanda",
+    "ragam": null,
+    "contoh": null,
+    "audio": null,
+    "sumber": "Rekayasa_Komputasional/kamus_konjo.py",
+    "status": "draf"
+  },
+  {
+    "id": "k0006",
+    "kata": "ANTAMA",
+    "arti": "Masuk",
+    "ragam": null,
+    "contoh": null,
+    "audio": null,
+    "sumber": "Rekayasa_Komputasional/kamus_konjo.py",
+    "status": "draf"
+  },
+  {
+    "id": "k0007",
+    "kata": "BARRASA",
+    "arti": "Menyapu",
+    "ragam": null,
+    "contoh": null,
+    "audio": null,
+    "sumber": "Rekayasa_Komputasional/kamus_konjo.py",
+    "status": "draf"
+  },
+  {
+    "id": "k0008",
+    "kata": "KUMBALA",
+    "arti": "Nakal",
+    "ragam": null,
+    "contoh": null,
+    "audio": null,
+    "sumber": "Rekayasa_Komputasional/kamus_konjo.py",
+    "status": "draf"
+  },
+  {
+    "id": "k0009",
+    "kata": "GAMMARA",
+    "arti": "Ganteng/Cantik",
+    "ragam": null,
+    "contoh": null,
+    "audio": null,
+    "sumber": "Rekayasa_Komputasional/kamus_konjo.py",
+    "status": "draf"
+  },
+  {
+    "id": "k0010",
+    "kata": "LUSSA",
+    "arti": "Kusut",
+    "ragam": null,
+    "contoh": null,
+    "audio": null,
+    "sumber": "Rekayasa_Komputasional/kamus_konjo.py",
+    "status": "draf"
+  }
+]
